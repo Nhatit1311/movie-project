@@ -1,0 +1,8 @@
+@media (max-width: 991px) {
+    html {
+        font-size: 60%;
+    }
+    #header {
+        padding: 0 1rem;
+    }
+}
