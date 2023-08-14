@@ -6,8 +6,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomePageController::class, 'index']);
 Route::get('/chi-tiet-phim/{slug}', [HomePageController::class, 'chiTietPhim']);
-Route::get('/phim/{id_phim}', [HomePageController::class, 'phim'])->name('phim');
-Route::get('/trailer', [HomePageController::class, 'trailer']);
+Route::get('/phim/{slug}', [HomePageController::class, 'phim'])->name('phim');
+Route::get('/trailer/{slug}', [HomePageController::class, 'trailer'])->name('trailer');
 Route::get('/phim-moi', [HomePageController::class, 'phimMoi']);
 Route::post('/tim-kiem', [HomePageController::class, 'actionTimKiem']);
 

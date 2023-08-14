@@ -25,14 +25,16 @@ class HomePageController extends Controller
         return view('clients.page.chi_tiet_phim', compact('detail_phim', 'list_phim_2'));
     }
 
-    public function trailer() {
-        return view('clients.page.trailer');
+    public function trailer($slug) {
+        $xem_phim = Phim::where('slug_ten_phim', $slug)->first();
+        $list_phim_2 = Phim::where('trang_thai', 3)->get();
+        return view('clients.page.trailer', compact('xem_phim', 'list_phim_2'));
     }
 
-    public function phim($id_phim) {
+    public function phim($slug) {
        //dd('day la phim: ' .$move->id );
         //dd($id_phim);
-        $xem_phim = Phim::where('id', $id_phim)->first();
+        $xem_phim = Phim::where('slug_ten_phim', $slug)->first();
         //dd($xem_phim->id);
         return view('clients.page.xem_phim', compact('xem_phim'));
     }

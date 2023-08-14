@@ -15,7 +15,7 @@
     </div>
     <div class="container__watch-title">
         <h2 style="font-weight: 600; ">
-            <a style="color: #a5a5a5;" href="/phim">Cửa Hàng Tiện Lợi Saet Byul Tập 1</a>
+            <a style="color: #a5a5a5;" href="/phim">{{ $xem_phim->ten_phim}}</a>
         </h2>
     </div>
     <div class="container__row">

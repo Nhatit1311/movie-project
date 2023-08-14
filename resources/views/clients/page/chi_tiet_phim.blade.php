@@ -12,10 +12,10 @@
                 <img src="{{ isset($detail_phim) ? $detail_phim->hinh_anh : '' }}" alt="{{ isset($detail_phim) ? $detail_phim->ten_phim : '' }}">
             </a>
             <div class="container__detail-button" align="center">
-                <a href="/trailer">
+                <a href="{{ route('trailer',['slug'=>$detail_phim->slug_ten_phim]) }}">
                     <button class="trailer"><span>Trailer</span></button>
                 </a>
-                <a href="{{ route('phim',['id_phim'=>$detail_phim->id]) }}">
+                <a href="{{ route('phim',['slug'=>$detail_phim->slug_ten_phim]) }}">
                     <button class="xem-phim">
                         <span>
                             Xem Phim

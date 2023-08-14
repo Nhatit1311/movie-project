@@ -371,6 +371,20 @@ class PhimSeeder extends Seeder
                 'trang_thai' => 5,
                 'link_phim' => "https://kd.opstream3.com/share/b1562246c02be63bac86a26684cdce58",
             ],
+            [
+                'ten_phim' => "NHÀ NGHỈ MELATI",
+                'slug_ten_phim' => "nha-nghi-melati",
+                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/nha-nghi-melati-thumb.jpg",
+                'thoi_luong' => 93,
+                'the_loai' => "Kinh Dị",
+                'quoc_gia' => "Indonesia",
+                'dao_dien' => "Mike Wiluan",
+                'dien_vien' => "Alexandra Gottardo, Kiki Narendra, Samuel Panjaitan, Fandy Christian, Ena Pasaribu, Dwi Sasono, Bima Sena, Adinda Breton, Jordan Omar, Abirama Putra",
+                'trailer' => "https://www.youtube.com/embed/JZyP1gk38Dw",
+                'mo_ta' => "Trú ẩn tại khu vực bị thị trấn lãng quên, những người du hành mắc kẹt bên trong một nhà nghỉ bị nguyền rủa. Ở đó, chủ nhà nghỉ buộc họ phải đối mặt với nỗi kinh hoàng đen tối nhất.",
+                'trang_thai' => 2,
+                'link_phim' => "https://hd1080.opstream2.com/share/2b736f73615495dbfc8c911ef6378747",
+            ],
         ]);
     }
 }

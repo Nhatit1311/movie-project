@@ -32,7 +32,7 @@
             <div class="swiper-wrapper">
                 @foreach ($list_phim_1 as $key => $value)
                 <div class="swiper-slide">
-                    <a href="/chi-tiet-phim/{{$value->slug_ten_phim}}-{{$value->id}}" title="{{$value->slug_ten_phim}}">
+                    <a href="/chi-tiet-phim/{{$value->slug_ten_phim}}-{{$value->id}}" title="{{$value->ten_phim}}">
                         <div class="scale">
                             <img src="{{ $value->hinh_anh }}" alt="{{ $value->ten_phim }}"
                                 srcset="{{ $value->hinh_anh }}">
