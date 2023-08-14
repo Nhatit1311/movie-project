@@ -35,8 +35,9 @@ class HomePageController extends Controller
        //dd('day la phim: ' .$move->id );
         //dd($id_phim);
         $xem_phim = Phim::where('slug_ten_phim', $slug)->first();
+        $list_phim_2 = Phim::where('trang_thai', 2)->get();
         //dd($xem_phim->id);
-        return view('clients.page.xem_phim', compact('xem_phim'));
+        return view('clients.page.xem_phim', compact('xem_phim', 'list_phim_2'));
     }
 
     public function phimMoi() {
@@ -50,5 +51,9 @@ class HomePageController extends Controller
         $list_phim_moi = Phim::where('ten_phim', 'like', '%' . $search . '%')->get();
 
         return view('clients.page.phim_moi', compact('list_phim_moi'));
+    }
+
+    public function tinTuc() {
+        return view('clients.page.tin_tuc');
     }
 }

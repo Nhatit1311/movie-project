@@ -63,72 +63,18 @@
         <h2 class="container__movie-phim-noi-bat" style="font-weight: 600;">Có Thể Bạn Muốn Xem</h2>
         <div class="swiper mySlideMovie">
             <div class="swiper-wrapper">
+                @foreach ($list_phim_2 as $value)
                 <div class="swiper-slide">
-                    <a href="/chi-tiet-phim">
+                    <a href="/chi-tiet-phim/{{$value->slug_ten_phim}}-{{$value->id}}">
                         <div class="scale">
-                            <img src="/assets/img/movie/1.jpg" alt=""
-                                srcset="/assets/img/movie/1.jpg">
+                            <img src="{{$value->hinh_anh}}" alt="{{$value->ten_phim}}">
                         </div>
                         <div class="movie-title">
-                            <p>Cửa hàng tiện lợi Saet Buyl</p>
+                            <p>{{$value->ten_phim}}</p>
                         </div>
                     </a>
                 </div>
-                <div class="swiper-slide">
-                    <a href="/chi-tiet-phim">
-                        <div class="scale">
-                            <img src="/assets/img/banner/poster-phim-hanh-dong.jpg" alt=""
-                                srcset="/assets/img/banner/poster-phim-hanh-dong.jpg">
-                            </div>
-                        <div class="movie-title">
-                            <p>Cửa hàng tiện lợi Saet Buyl</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="/chi-tiet-phim">
-                        <div class="scale">
-                            <img src="/assets/img/banner/poster-phim-hanh-dong.jpg" alt=""
-                                srcset="/assets/img/banner/poster-phim-hanh-dong.jpg">
-                            </div>
-                        <div class="movie-title">
-                            <p>Cửa hàng tiện lợi Saet Buyl</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="/chi-tiet-phim">
-                        <div class="scale">
-                            <img src="/assets/img/banner/poster-phim-hanh-dong.jpg" alt=""
-                                srcset="/assets/img/banner/poster-phim-hanh-dong.jpg">
-                            </div>
-                        <div class="movie-title">
-                            <p>Cửa hàng tiện lợi Saet Buyl</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="/chi-tiet-phim">
-                        <div class="scale">
-                            <img src="/assets/img/banner/poster-phim-hanh-dong.jpg" alt=""
-                                srcset="/assets/img/banner/poster-phim-hanh-dong.jpg">
-                            </div>
-                        <div class="movie-title">
-                            <p>Cửa hàng tiện lợi Saet Buyl</p>
-                        </div>
-                    </a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="/chi-tiet-phim">
-                        <div class="scale">
-                            <img src="/assets/img/banner/poster-phim-hanh-dong.jpg" alt=""
-                                srcset="/assets/img/banner/poster-phim-hanh-dong.jpg">
-                            </div>
-                        <div class="movie-title">
-                            <p>Cửa hàng tiện lợi Saet Buyl</p>
-                        </div>
-                    </a>
-                </div>
+                @endforeach
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>

@@ -10,6 +10,7 @@ Route::get('/phim/{slug}', [HomePageController::class, 'phim'])->name('phim');
 Route::get('/trailer/{slug}', [HomePageController::class, 'trailer'])->name('trailer');
 Route::get('/phim-moi', [HomePageController::class, 'phimMoi']);
 Route::post('/tim-kiem', [HomePageController::class, 'actionTimKiem']);
+Route::get('/tin-tuc', [HomePageController::class, 'tinTuc']);
 
 // admin quan ly phim
 Route::group(['prefix' => '/admin'], function() {

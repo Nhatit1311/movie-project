@@ -23,7 +23,7 @@
                     <li><a href="#phimnhatban">phim nhật bản</a></li>
                 </ul>
             </li>
-            <li><a href="news.html">bài viết</a></li>
+            <li><a href="/tin-tuc">bài viết</a></li>
         </ul>
     </nav>
     <div class="form">
