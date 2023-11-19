@@ -1,4 +1,7 @@
 @extends('clients.share.master')
+@section('title')
+    Xem Phim {{ $xem_phim->ten_phim }}
+@endsection
 @section('content')
 <section class="container">
     <div class="container__title">

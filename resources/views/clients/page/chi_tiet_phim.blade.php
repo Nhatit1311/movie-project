@@ -1,4 +1,7 @@
 @extends('clients.share.master')
+@section('title')
+    Phim {{ isset($detail_phim) ? $detail_phim->ten_phim : '' }}
+@endsection
 @section('content')
 <section class="container">
     <div class="container__title">

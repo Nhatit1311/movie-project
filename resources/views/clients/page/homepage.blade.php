@@ -1,4 +1,7 @@
 @extends('clients.share.master')
+@section('title')
+    Phim Hay
+@endsection
 @section('content')
 <section class="container__banner">
     <div class="swiper mySwiper">

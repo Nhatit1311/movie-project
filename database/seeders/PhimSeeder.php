@@ -24,7 +24,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "Em Đến Từ Tương Lai",
                 'slug_ten_phim' => "em-den-tu-tuong-lai",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/em-den-tu-tuong-lai-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/em-den-tu-tuong-lai-thumb.jpg",
                 'thoi_luong' => 30,
                 'the_loai' => "Phim Tình Cảm",
                 'quoc_gia' => "Trung Quốc",
@@ -38,7 +38,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "Cửa Hàn Tiện Lợi Saet Byul",
                 'slug_ten_phim' => "cua-hang-tien-loi-saet-byul",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/cua-hang-tien-loi-saet-byul-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/cua-hang-tien-loi-saet-byul-thumb.jpg",
                 'thoi_luong' => 60,
                 'the_loai' => "Phim Hài Hước",
                 'quoc_gia' => "Hàn Quốc",
@@ -52,7 +52,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "ONE PIECE FILM: RED",
                 'slug_ten_phim' => "one-piece-film-red",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/one-piece-film-red-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/one-piece-film-red-thumb.jpg",
                 'thoi_luong' => 116,
                 'the_loai' => "Hoạt Hình",
                 'quoc_gia' => "Nhật Bản",
@@ -66,7 +66,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "Tà Chú Cấm",
                 'slug_ten_phim' => "ta-chu-cam",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/ta-chu-cam-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/ta-chu-cam-thumb.jpg",
                 'thoi_luong' => 124,
                 'the_loai' => "Phim Kinh Dị",
                 'quoc_gia' => "Thái Lan",
@@ -80,7 +80,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "Lớp Học Điệp Viên Mùa 2",
                 'slug_ten_phim' => "lop-hoc-diep-vien-mua-2",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/lop-hoc-diep-vien-mua-2-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/lop-hoc-diep-vien-mua-2-thumb.jpg",
                 'thoi_luong' => 23,
                 'the_loai' => "Phim Hoạt Hình",
                 'quoc_gia' => "Nhật Bản",
@@ -94,7 +94,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "Mặt Nạ Quỷ",
                 'slug_ten_phim' => "mat-na-quy",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/mat-na-quy-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/mat-na-quy-thumb.jpg",
                 'thoi_luong' => 103,
                 'the_loai' => "Phim Kinh Dị",
                 'quoc_gia' => "Âu Mỹ",
@@ -108,7 +108,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "ZAMBEZIA: THÀNH PHỐ CÁC LOÀI CHIM",
                 'slug_ten_phim' => "ambezia-thanh-pho-cac-loai-chim",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/zambezia-thanh-pho-cac-loai-chim-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/zambezia-thanh-pho-cac-loai-chim-thumb.jpg",
                 'thoi_luong' => 83,
                 'the_loai' => "Hài Hước, Phiêu Lưu, Gia Đình",
                 'quoc_gia' => "Nam Phi",
@@ -122,7 +122,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "NGƯỜI NHỆN: DU HÀNH VŨ TRỤ NHỆN",
                 'slug_ten_phim' => "nguoi-nhen-du-hanh-vu-tru-nhen",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/nguoi-nhen-du-hanh-vu-tru-nhen-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/nguoi-nhen-du-hanh-vu-tru-nhen-thumb.jpg",
                 'thoi_luong' => 140,
                 'the_loai' => "Hành Động, Viễn Tưởng, Phiêu Lưu, Khoa Học",
                 'quoc_gia' => "Âu Mỹ",
@@ -136,7 +136,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "THE GATES",
                 'slug_ten_phim' => "the-gates",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/the-gates-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/the-gates-thumb.jpg",
                 'thoi_luong' => 111,
                 'the_loai' => "Kinh Dị",
                 'quoc_gia' => "Âu Mỹ",
@@ -150,13 +150,13 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "TÔI VÀ CHÚNG TA Ở BÊN NHAU",
                 'slug_ten_phim' => "toi-va-chung-ta-o-ben-nhau",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/toi-va-chung-ta-o-ben-nhau-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/toi-va-chung-ta-o-ben-nhau-thumb.jpg",
                 'thoi_luong' => 50,
                 'the_loai' => "Tình Cảm, Tâm Lý",
                 'quoc_gia' => "Trung Quốc",
                 'dao_dien' => "Đang cập nhật",
                 'dien_vien' => "Khương Nghiên, Tôn Di, Trương Bân Bân",
-                'trailer' => "",
+                'trailer' => "https://www.youtube.com/watch?v=r958O404e4U",
                 'mo_ta' => "Tôi Và Chúng Ta Ở Bên Nhau xoay quanh bốn người phụ nữ sắp bước sang tuổi ba mươi. Nhóm bạn thân Hạ Nhan, Lương Sảng, Triệu Tiểu Lôi và Hạng Nam quen biết nhau từ thời còn học đại học. Sau khi tốt nghiệp, họ cùng nhau làm việc và sinh sống ở cùng một thành phố. Mỗi người một tính cách, một giấc mơ riêng, tuy nhiên trải qua nhiều trắc trở, bốn cô gái trẻ cổ vũ và giúp đỡ lẫn nhau, cùng nhau giải quyết những vấn đề khó khăn xảy ra trong cuộc sống, cũng chứng kiến sự trưởng thành và thay đổi của nhau.",
                 'trang_thai' => 1,
                 'link_phim' => "https://hd1080.opstream2.com/share/e9c8064bc8dac39bed69dd1d0158c1cd",
@@ -164,7 +164,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "QUÁI VẬT TÀU ĐIỆN NGẦM",
                 'slug_ten_phim' => "quai-vat-tau-dien-ngam",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/quai-vat-tau-dien-ngam-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/quai-vat-tau-dien-ngam-thumb.jpg",
                 'thoi_luong' => 85,
                 'the_loai' => "Kinh Dị, Bí ẩn",
                 'quoc_gia' => "Âu Mỹ",
@@ -178,7 +178,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "TRÒ CHƠI ĐỊNH MỆNH",
                 'slug_ten_phim' => "tro-choi-dinh-menh",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/tro-choi-dinh-menh-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/tro-choi-dinh-menh-thumb.jpg",
                 'thoi_luong' => 93,
                 'the_loai' => "Hành Động, Phiêu Lưu, Kinh Dị",
                 'quoc_gia' => "Hàn Quốc",
@@ -192,7 +192,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "ĐẢO HẢI TẶC: LỄ HỘI HẢI TẶC (2019)",
                 'slug_ten_phim' => "dao-hai-tac-le-hoi-hai-tac-2019",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/dao-hai-tac-le-hoi-hai-tac-2019-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/dao-hai-tac-le-hoi-hai-tac-2019-thumb.jpg",
                 'thoi_luong' => 101,
                 'the_loai' => "Hành Động, Phiêu Lưu",
                 'quoc_gia' => "Nhật Bản",
@@ -206,7 +206,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "BOBOIBOY 2: CUỘC CHIẾN NGÂN HÀ",
                 'slug_ten_phim' => "boboiboy-2-cuoc-chien-ngan-ha",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/boboiboy-2-cuoc-chien-ngan-ha-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/boboiboy-2-cuoc-chien-ngan-ha-thumb.jpg",
                 'thoi_luong' => 116,
                 'the_loai' => "Gia Đình",
                 'quoc_gia' => "Malaysia",
@@ -220,7 +220,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "Ô TÔ 3",
                 'slug_ten_phim' => "o-to-3",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/o-to-3-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/o-to-3-thumb.jpg",
                 'thoi_luong' => 116,
                 'the_loai' => "Hài Hước, Thể Thao, Gia Đình",
                 'quoc_gia' => "Âu Mỹ",
@@ -234,7 +234,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "NGƯỜI ẤY ĐÃ ĐẾN",
                 'slug_ten_phim' => "nguoi-ay-da-den",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/nguoi-ay-da-den-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/nguoi-ay-da-den-thumb.jpg",
                 'thoi_luong' => 70,
                 'the_loai' => "Gia Đình, Chính kịch",
                 'quoc_gia' => "Hàn Quốc",
@@ -248,7 +248,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "KHI CÁC GÓA PHỤ HÀNH ĐỘNG",
                 'slug_ten_phim' => "khi-cac-goa-phu-hanh-dong",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/khi-cac-goa-phu-hanh-dong-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/khi-cac-goa-phu-hanh-dong-thumb.jpg",
                 'thoi_luong' => 129,
                 'the_loai' => "	Hình Sự",
                 'quoc_gia' => "Âu Mỹ, Anh",
@@ -262,7 +262,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "CÂU CHUYỆN ĐỒ CHƠI 4",
                 'slug_ten_phim' => "cau-chuyen-do-choi-4",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/cau-chuyen-do-choi-4-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/cau-chuyen-do-choi-4-thumb.jpg",
                 'thoi_luong' => 129,
                 'the_loai' => "Hài Hước, Gia Đình",
                 'quoc_gia' => "Âu Mỹ",
@@ -276,7 +276,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "BÃO TRẮNG 3: THIÊN ĐÀNG HAY ĐỊA NGỤC",
                 'slug_ten_phim' => "bao-trang-3-thien-dang-hay-dia-nguc",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/bao-trang-3-thien-dang-hay-dia-nguc-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/bao-trang-3-thien-dang-hay-dia-nguc-thumb.jpg",
                 'thoi_luong' => 125,
                 'the_loai' => "Hành Động, Hình Sự, Chính kịch",
                 'quoc_gia' => "Trung Quốc, Hồng Kông",
@@ -290,7 +290,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "THÁM TỬ LỪNG DANH CONAN 26: TÀU NGẦM SẮT MÀU ĐEN",
                 'slug_ten_phim' => "tham-tu-lung-danh-conan-26-tau-ngam-sat-mau-den",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/tham-tu-lung-danh-conan-26-tau-ngam-sat-mau-den-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/tham-tu-lung-danh-conan-26-tau-ngam-sat-mau-den-thumb.jpg",
                 'thoi_luong' => 110,
                 'the_loai' => "Hành Động, Hình Sự, Bí ẩn",
                 'quoc_gia' => "Nhật Bản",
@@ -304,7 +304,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "LIVE STREAM",
                 'slug_ten_phim' => "live-stream",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/live-stream-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/live-stream-thumb.jpg",
                 'thoi_luong' => 90,
                 'the_loai' => "Hình Sự",
                 'quoc_gia' => "Hàn Quốc",
@@ -318,7 +318,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "ĐỒNG CẢM VỚI QUỶ",
                 'slug_ten_phim' => "dong-cam-voi-quy",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/dong-cam-voi-quy-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/dong-cam-voi-quy-thumb.jpg",
                 'thoi_luong' => 90,
                 'the_loai' => "Hình Sự",
                 'quoc_gia' => "Âu Mỹ",
@@ -332,7 +332,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "SAU KHI GẶP ĐƯỢC ANH",
                 'slug_ten_phim' => "sau-khi-gap-duoc-anh-2022",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/sau-khi-gap-duoc-anh-2022-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/sau-khi-gap-duoc-anh-2022-thumb.jpg",
                 'thoi_luong' => 102,
                 'the_loai' => "Tình Cảm",
                 'quoc_gia' => "Trung Quốc",
@@ -346,7 +346,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "TẦNG 11 BIẾN MẤT",
                 'slug_ten_phim' => "tang-11-bien-mat",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/tang-11-bien-mat-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/tang-11-bien-mat-thumb.jpg",
                 'thoi_luong' => 43,
                 'the_loai' => "Hành Động, Hình Sự, Bí ẩn",
                 'quoc_gia' => "Hồng kông",
@@ -360,7 +360,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "BỐ GIÀ",
                 'slug_ten_phim' => "bo-gia-2021",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/bo-gia-2021-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/bo-gia-2021-thumb.jpg",
                 'thoi_luong' => 128,
                 'the_loai' => "Hài Hước, Gia Đình, Chính kịch",
                 'quoc_gia' => "Việt Nam",
@@ -374,7 +374,7 @@ class PhimSeeder extends Seeder
             [
                 'ten_phim' => "NHÀ NGHỈ MELATI",
                 'slug_ten_phim' => "nha-nghi-melati",
-                'hinh_anh' => "https://img.ophim8.cc/uploads/movies/nha-nghi-melati-thumb.jpg",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/nha-nghi-melati-thumb.jpg",
                 'thoi_luong' => 93,
                 'the_loai' => "Kinh Dị",
                 'quoc_gia' => "Indonesia",
@@ -384,6 +384,20 @@ class PhimSeeder extends Seeder
                 'mo_ta' => "Trú ẩn tại khu vực bị thị trấn lãng quên, những người du hành mắc kẹt bên trong một nhà nghỉ bị nguyền rủa. Ở đó, chủ nhà nghỉ buộc họ phải đối mặt với nỗi kinh hoàng đen tối nhất.",
                 'trang_thai' => 2,
                 'link_phim' => "https://hd1080.opstream2.com/share/2b736f73615495dbfc8c911ef6378747",
+            ],
+            [
+                'ten_phim' => "Điên thì có sao",
+                'slug_ten_phim' => "dien-thi-co-sao",
+                'hinh_anh' => "https://img.ophim9.cc/uploads/movies/dien-thi-co-sao-thumb.jpg",
+                'thoi_luong' => 75,
+                'the_loai' => "Hài hước lãng mạn",
+                'quoc_gia' => "Hàn Quốc",
+                'dao_dien' => "",
+                'dien_vien' => "Kim Soo Hyun,Seo Yea Ji,Oh Jung Se,Park Kyu Young,Kim Ju Hun,Kim Chang Wan,Kim Me Kyung,Kang Ki Doong,Jang Young Nam",
+                'trailer' => "",
+                'mo_ta' => "Khi một tác giả sách thiếu nhi có xu hướng chống đối xã hội gặp một người chăm sóc tâm lý vị tha, một hành trình khác thường giúp chữa lành cảm xúc mở ra với họ",
+                'trang_thai' => 2,
+                'link_phim' => "https://hd1080.opstream2.com/share/88447d3a2c4e50237d32431a087518dd",
             ],
         ]);
     }
